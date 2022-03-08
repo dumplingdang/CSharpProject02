@@ -1,0 +1,7 @@
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\bin\Debug\COMP3602Assign04.exe.config
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\bin\Debug\COMP3602Assign04.exe
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\bin\Debug\COMP3602Assign04.pdb
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\obj\Debug\COMP3602Assign04.csproj.CoreCompileInputs.cache
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\obj\Debug\COMP3602Assign04.exe
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\obj\Debug\COMP3602Assign04.pdb
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\Week05\Assign04Files\COMP3602Assign04\COMP3602Assign04\obj\Debug\COMP3602Assign04.csproj.AssemblyReference.cache
